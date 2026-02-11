@@ -84,4 +84,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Author
 
 **Moaaz Ahmed**
-- GitHub: [@MomoSalter](https://github.com/MomoSalter)
+- GitHub: [@Moaaz Ahmed](https://github.com/MomoSalter)
