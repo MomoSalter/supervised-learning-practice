@@ -74,4 +74,4 @@ jupyter notebook House_price.ipynb
 ## Author
 
 **Moaaz Ahmed**
-- GitHub: [@MomoSalter](https://github.com/MomoSalter)
+- GitHub: [@Moaaz Ahmed](https://github.com/MomoSalter)
