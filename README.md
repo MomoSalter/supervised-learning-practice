@@ -35,7 +35,7 @@ supervised-learning-practice/
 ### Linear Regression
 
 #### House Price Predictor
-**File:** `linear_regression/House_price.ipynb`
+**File:** `linear_regression/house_price_estimator/House_price.ipynb`
 
 **Problem Statement:** Predict house sale prices from a large set of structural and quality-based features using a train/validation/test split.
 
@@ -44,7 +44,7 @@ supervised-learning-practice/
 ---
 
 #### E-Commerce Money Spent Predictor
-**File:** `linear_regression/money_spent_predictor.ipynb`
+**File:** `linear_regression/money_spent_per_customer/money_spent_predictor.ipynb`
 
 **Problem Statement:** Predict the yearly amount spent by e-commerce customers based on their app and website behavior.
 
@@ -55,7 +55,7 @@ supervised-learning-practice/
 ### Logistic Regression
 
 #### Ad Click Predictor
-**File:** `logistic_regression/ad_click_predictior.ipynb`
+**File:** `logistic_regression/ad_click_predictor/ad_click_predictior.ipynb`
 
 **Problem Statement:** Predict whether an internet user will click on an advertisement based on their behavioral and demographic profile.
 
@@ -64,7 +64,7 @@ supervised-learning-practice/
 ---
 
 #### Diabetes Diagnostic Model
-**File:** `logistic_regression/diabetes_diagnostic_model.ipynb`
+**File:** `logistic_regression/diabetes_diagnosis/diabetes_diagnostic_model.ipynb`
 
 **Problem Statement:** Diagnose whether a patient has diabetes based on medical measurements including Glucose, BMI, Insulin, and Blood Pressure.
 
@@ -75,7 +75,7 @@ supervised-learning-practice/
 ### K-Nearest Neighbors
 
 #### KNN Classifier
-**File:** `KNN/knn_classifier.ipynb`
+**File:** `KNN/classifier_model_for_artificial_data/knn_classifier.ipynb`
 
 **Problem Statement:** Classify data points from an artificial dataset into binary target classes using KNN.
 
@@ -86,7 +86,7 @@ supervised-learning-practice/
 ### Support Vector Machine (SVM)
 
 #### Cancer Predictor
-**File:** `SVM/cancer_predictor.ipynb`
+**File:** `SVM/cancer_predictor/cancer_predictor.ipynb`
 
 **Problem Statement:** Classify breast cancer tumors as malignant or benign using features derived from digitized cell nucleus images.
 
@@ -95,7 +95,7 @@ supervised-learning-practice/
 ---
 
 #### Heart Failure Predictor
-**File:** `SVM/heart_failure_predictor.ipynb`
+**File:** `SVM/heart_failure_predictor_using_grid_search/heart_failure_predictor.ipynb`
 
 **Problem Statement:** Predict the risk of heart disease from clinical features including cholesterol, resting blood pressure, chest pain type, and exercise-induced angina.
 
@@ -104,7 +104,7 @@ supervised-learning-practice/
 ---
 
 #### Iris Species Classifier
-**File:** `SVM/iris_species_classifier.ipynb`
+**File:** `SVM/iris_flower_species_classifier_using_grid_search/iris_species_classifier.ipynb`
 
 **Problem Statement:** Classify iris flowers into three species — Setosa, Versicolor, and Virginica — based on petal and sepal measurements.
 
